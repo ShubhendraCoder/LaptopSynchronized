@@ -1,2 +1,3 @@
 # LaptopSynchronized
-Adding key of C
+Adding key of C.
+Working on Laptop.
